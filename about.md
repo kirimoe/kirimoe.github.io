@@ -8,7 +8,7 @@ comments: false
 
 ## Hello there I am Sahil aka BabyUB 🖖
 
-I'm a CyberSecurity student from India <img height="15" src="/assets/img/india.png"> with interest in <strong style="color: red">Exploit Development</strong> and <strong style="color: purple">Reverse Engineering</strong>. This blog is documentation about my CyberSecurity 🎒 journey, 
+I'm a CyberSecurity student from India <img height="15" src="/assets/img/India.png"> with interest in <strong style="color: red">Exploit Development</strong> and <strong style="color: purple">Reverse Engineering</strong>. This blog is documentation about my CyberSecurity 🎒 journey, 
 
 Well I'm a solo **CTF player** looking for a team <img height="25" src="https://ctftime.org/media/team/favicon_5.ico"> Currently focuses on **Binary Exploitation** & **Reverse Engineering**
 
