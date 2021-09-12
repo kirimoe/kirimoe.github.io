@@ -1,7 +1,7 @@
 ---
 title: TMUCTF 2021 Pwn
 tags: [tmuctf, ctf, writeup]
-description: This is an exploit writeup for pwn chanllenges from tmuctf
+description: This is an exploit writeup for pwn challenges from tmuctf
 ---
 
 # Tasks
