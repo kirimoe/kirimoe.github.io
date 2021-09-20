@@ -10,11 +10,11 @@ comments: false
 
 I'm a CyberSecurity student from India <img height="15" src="/assets/img/India.png"> with interest in <strong style="color: red">Exploit Development</strong> and <strong style="color: purple">Reverse Engineering</strong>. This blog is documentation about my CyberSecurity 🎒 journey, 
 
-Well I'm a solo **CTF player** looking for a team <img height="25" src="https://ctftime.org/media/team/favicon_5.ico"> Currently focuses on **Binary Exploitation** & **Reverse Engineering**
+Currently I am playing for the team <a href="http://onlyflags.in/">DarkArmy</a> <img height="25" src="https://ctftime.org/media/team/favicon_5.ico">
 
 I practice my skills on **pwn.college** , **pwnable.tw**
 
-Currently I'm a **Yellow Belt** <img height="25" src="/assets/img/belt.png"> hacker on pwn.college
+As of now I'm a **Yellow Belt** <img height="25" src="/assets/img/belt.png"> hacker on pwn.college
 
 Wanna talk!! **Discord** me `0w0#8045`
 
